@@ -1,0 +1,10 @@
+# 5.0 Logging, Monitoring, and Metrics
+
+[Identify the elements of log and metric systems to facilitate application troubleshooting such as performance issues and streaming telemetry logs](01_Identify_the_Elements_of_Log_and_Metric_Systems_to_Facilitate_Application_Troubleshooting_Such_as_Performance_Issues_and_Streaming_Telemetry_Logs.md)
+[Implement a log collection and reporting system for applications](02_Implement_a_log_collection_and_reporting_system_for_applications.md)
+[Troubleshoot a distributed application using AppDynamics with Application Performance Monitoring](03_Troubleshoot_a_Distributed_Application_Using_AppDynamics_with_Application_Performance_Monitoring.md)
+[Describe the principles of chaos engineering](04_Describe_the_Principles_of_Chaos_Engineering.md)
+[Construct Python scripts that use APIs for a variety of tasks](05_Construct_Python_Scripts_That_Use_APIs_to_Accomplish_These_Tasks.md)
+[Identify additional application requirements to provide visibility into health and performance](06_Identify_additional_application_Requirements_to_Provide_Visibility_Into_Health_and_Performance.md)
+[Describe Kubernetes capabilities related to logging, monitoring, and metrics](07_Describe_Kubernetes_Capabilities_Related_to_Logging_Monitoring_and_Metrics.md)
+[Describe the integration of logging, monitoring, and alerting in a CI/CD pipelin design](08_Describe_the_Integration_of_Logging_Monitoring_and_Alerting_in_a_CICD_Pipeline_Design.md)
